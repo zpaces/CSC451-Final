@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Link Storage</string>
+    <string name="title_activity_amazon_data">amazonData</string>
+    <string name="action_settings">Settings</string>
+</resources>
